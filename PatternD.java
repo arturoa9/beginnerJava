@@ -16,12 +16,13 @@ public class PatternD {
 		{
 			for(int j=1;j<=7-i;j++)
 			{
-			System.out.print(j);
+			   System.out.print(j);
 			}
-			System.out.println();
-			for(int k=1;k<=i;k++)
+			   System.out.println();
+			   for(int k=1;k<=i;k++)
 				System.out.print(" ");
 		}
 	}
 
+	
 }
